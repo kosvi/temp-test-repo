@@ -1,6 +1,12 @@
 changelog:
   categories:
-    - title: commits
+    - title: Features
+      labels:
+        - feature
+    - title: Bugs
+      labels:
+        - bug
+    - title: CI
       labels:
         - "*"
 
